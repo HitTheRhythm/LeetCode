@@ -35,12 +35,14 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HitTheRhythm/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/HitTheRhythm/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HitTheRhythm/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/HitTheRhythm/LeetCode/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HitTheRhythm/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/HitTheRhythm/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/HitTheRhythm/LeetCode/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
