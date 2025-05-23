@@ -76,6 +76,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/HitTheRhythm/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [1013-fibonacci-number](https://github.com/HitTheRhythm/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -97,4 +98,8 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/HitTheRhythm/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/HitTheRhythm/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
