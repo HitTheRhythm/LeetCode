@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HitTheRhythm/LeetCode/tree/master/0001-two-sum) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HitTheRhythm/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0005-longest-palindromic-substring](https://github.com/HitTheRhythm/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/HitTheRhythm/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/HitTheRhythm/LeetCode/tree/master/0344-reverse-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HitTheRhythm/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,4 +104,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HitTheRhythm/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Counting
+|  |
+| ------- |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HitTheRhythm/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 <!---LeetCode Topics End-->
