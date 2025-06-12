@@ -14,6 +14,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/HitTheRhythm/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/HitTheRhythm/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/HitTheRhythm/LeetCode/tree/master/0792-binary-search) |
+| [0917-boats-to-save-people](https://github.com/HitTheRhythm/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/HitTheRhythm/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/HitTheRhythm/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
@@ -49,6 +50,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HitTheRhythm/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/HitTheRhythm/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/HitTheRhythm/LeetCode/tree/master/0344-reverse-string) |
+| [0917-boats-to-save-people](https://github.com/HitTheRhythm/LeetCode/tree/master/0917-boats-to-save-people) |
 ## String
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/HitTheRhythm/LeetCode/tree/master/0075-sort-colors) |
+| [0917-boats-to-save-people](https://github.com/HitTheRhythm/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/HitTheRhythm/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Design
 |  |
@@ -114,4 +117,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/HitTheRhythm/LeetCode/tree/master/0322-coin-change) |
+## Greedy
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/HitTheRhythm/LeetCode/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
