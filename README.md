@@ -111,6 +111,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HitTheRhythm/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/HitTheRhythm/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Counting
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/HitTheRhythm/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/HitTheRhythm/LeetCode/tree/master/0322-coin-change) |
 ## Greedy
@@ -132,13 +134,16 @@
 ## Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/HitTheRhythm/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/HitTheRhythm/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/HitTheRhythm/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
