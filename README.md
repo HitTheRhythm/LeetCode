@@ -17,6 +17,7 @@
 | [0917-boats-to-save-people](https://github.com/HitTheRhythm/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/HitTheRhythm/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/HitTheRhythm/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/HitTheRhythm/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0075-sort-colors](https://github.com/HitTheRhythm/LeetCode/tree/master/0075-sort-colors) |
 | [0917-boats-to-save-people](https://github.com/HitTheRhythm/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/HitTheRhythm/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/HitTheRhythm/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Design
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 ## Counting
 |  |
 | ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/HitTheRhythm/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HitTheRhythm/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Breadth-First Search
 |  |
@@ -121,4 +124,8 @@
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/HitTheRhythm/LeetCode/tree/master/0917-boats-to-save-people) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/HitTheRhythm/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
