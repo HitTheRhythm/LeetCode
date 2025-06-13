@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/HitTheRhythm/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HitTheRhythm/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/HitTheRhythm/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/HitTheRhythm/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/HitTheRhythm/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/HitTheRhythm/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/HitTheRhythm/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HitTheRhythm/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/HitTheRhythm/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/HitTheRhythm/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/HitTheRhythm/LeetCode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/HitTheRhythm/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -54,6 +56,7 @@
 | [0125-valid-palindrome](https://github.com/HitTheRhythm/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HitTheRhythm/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/HitTheRhythm/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/HitTheRhythm/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/HitTheRhythm/LeetCode/tree/master/0344-reverse-string) |
 | [0917-boats-to-save-people](https://github.com/HitTheRhythm/LeetCode/tree/master/0917-boats-to-save-people) |
 ## String
@@ -140,6 +143,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/HitTheRhythm/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/HitTheRhythm/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Tree
 |  |
