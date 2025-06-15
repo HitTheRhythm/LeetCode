@@ -42,6 +42,7 @@
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/HitTheRhythm/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/HitTheRhythm/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HitTheRhythm/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0005-longest-palindromic-substring](https://github.com/HitTheRhythm/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/HitTheRhythm/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/HitTheRhythm/LeetCode/tree/master/0344-reverse-string) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HitTheRhythm/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HitTheRhythm/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
