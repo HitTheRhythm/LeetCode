@@ -24,6 +24,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/HitTheRhythm/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HitTheRhythm/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/HitTheRhythm/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2211-k-radius-subarray-averages](https://github.com/HitTheRhythm/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/HitTheRhythm/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HitTheRhythm/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HitTheRhythm/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2211-k-radius-subarray-averages](https://github.com/HitTheRhythm/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 ## Prefix Sum
 |  |
 | ------- |
