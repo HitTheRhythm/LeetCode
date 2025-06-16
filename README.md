@@ -49,6 +49,7 @@
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HitTheRhythm/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HitTheRhythm/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2211-k-radius-subarray-averages](https://github.com/HitTheRhythm/LeetCode/tree/master/2211-k-radius-subarray-averages) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/HitTheRhythm/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0125-valid-palindrome](https://github.com/HitTheRhythm/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/HitTheRhythm/LeetCode/tree/master/0344-reverse-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HitTheRhythm/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/HitTheRhythm/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HitTheRhythm/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
