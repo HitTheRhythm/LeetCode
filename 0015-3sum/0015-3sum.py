@@ -7,10 +7,10 @@ class Solution:
             x = nums[i]
             if i > 0 and x == nums[i - 1]:
                 continue
-            # if x + nums[i + 1] + nums[i + 2] > 0:
-            #     break
-            # if x + nums[-2] + nums[-1] < 0:
-            #     continue
+            if x + nums[i + 1] + nums[i + 2] > 0:
+                break
+            if x + nums[-2] + nums[-1] < 0:
+                continue
             j = i + 1
             k = n - 1
             while j < k:
