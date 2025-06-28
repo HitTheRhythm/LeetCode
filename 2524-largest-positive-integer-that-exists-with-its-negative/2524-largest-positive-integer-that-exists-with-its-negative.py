@@ -1,14 +1,23 @@
 class Solution:
     def findMaxK(self, nums: List[int]) -> int:
-        mp = {}
-        res = - 1
+        # Sort the input list in ascending order
+        nums.sort()
 
-        for i in range(len(nums)):
-            comp = 0  - nums[i]
-            if comp not in mp:
-                mp[nums[i]] = 1
+        lo = 0
+        hi = len(nums) - 1
+
+        while lo < hi:
+
+            # If the negation of the element at lo is equal to the element at hi
+            if -nums[lo] == nums[hi]:
+                return nums[hi]
+
+            # If the negation of element at lo is greater than element at hi
+            elif -nums[lo] > nums[hi]: 
+                lo += 1
+
+            # If the negation of element at lo is smaller than element at hi
             else:
-                res = max(res, abs(nums[i]))
+                hi -= 1
 
-        return res
-        
+        return -1
