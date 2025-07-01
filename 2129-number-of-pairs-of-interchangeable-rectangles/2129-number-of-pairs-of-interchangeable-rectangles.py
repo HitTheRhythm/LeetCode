@@ -4,8 +4,8 @@ class Solution:
         ratio = {}
         ans = 0
 
-        for x, y in rectangles:
-            rat = x / y
+        for i in range(len(rectangles)):
+            rat = rectangles[i][0] / rectangles[i][1]
             if rat not in ratio:
                 ratio[rat] = 0
             else:
