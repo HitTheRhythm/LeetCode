@@ -11,10 +11,8 @@ class Solution:
 
         q = deque([root])
         ans = []
-        level = 0
         while q:
             vals = []
-            level += 1
             for i in range(len(q)):
                 node = q.popleft()
                 vals.append(node.val)
@@ -22,5 +20,5 @@ class Solution:
                 if node.right: q.append(node.right)
             ans.append(sum(vals))
         ans.sort(reverse = True)
-        return ans[k - 1] if level >= k else -1
+        return ans[k - 1] if len(ans) >= k else -1
 
