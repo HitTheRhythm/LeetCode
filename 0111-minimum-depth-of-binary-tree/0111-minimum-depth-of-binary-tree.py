@@ -9,7 +9,6 @@ class Solution:
         if not root:
             return 0
         q = deque([root])
-        level = inf
         curr = 0
 
         while q:
@@ -17,11 +16,11 @@ class Solution:
             for i in range(len(q)):
                 node = q.popleft()
                 if not node.left and not node.right:
-                    level = min(level, curr)
+                    return curr
                 if node.left: q.append(node.left)
                 if node.right: q.append(node.right)
                 
-        return level
+        return -1
 
 
         
