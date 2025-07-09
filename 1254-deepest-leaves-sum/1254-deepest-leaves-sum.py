@@ -12,7 +12,7 @@ class Solution:
         while q:
             size = len(q)
             s = 0
-            for i in range(size):
+            for _ in range(size):
                 node = q.popleft()
                 s += node.val
                 if node.left: q.append(node.left)
