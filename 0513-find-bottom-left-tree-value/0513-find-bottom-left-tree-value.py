@@ -10,8 +10,7 @@ class Solution:
             return
         q = deque([root])
         while q:
-            for i in range(len(q)):
-                node = q.popleft()
-                if node.right: q.append(node.right)
-                if node.left: q.append(node.left)
+            node = q.popleft()
+            if node.right: q.append(node.right)
+            if node.left: q.append(node.left)
         return node.val
