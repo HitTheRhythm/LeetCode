@@ -199,6 +199,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/HitTheRhythm/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [1254-deepest-leaves-sum](https://github.com/HitTheRhythm/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1731-even-odd-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/1731-even-odd-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Greedy
 |  |
@@ -226,6 +227,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/HitTheRhythm/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [1254-deepest-leaves-sum](https://github.com/HitTheRhythm/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1731-even-odd-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/1731-even-odd-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -239,6 +241,7 @@
 | [0226-invert-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/HitTheRhythm/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [1254-deepest-leaves-sum](https://github.com/HitTheRhythm/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -255,6 +258,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/HitTheRhythm/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [1254-deepest-leaves-sum](https://github.com/HitTheRhythm/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1731-even-odd-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/1731-even-odd-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Stack
 |  |
