@@ -12,13 +12,13 @@ class Solution:
         q = deque([root])
         ans = []
         while q:
-            vals = []
+            vals = 0
             for i in range(len(q)):
                 node = q.popleft()
-                vals.append(node.val)
+                vals += node.val
                 if node.left: q.append(node.left)
                 if node.right: q.append(node.right)
-            ans.append(sum(vals))
+            ans.append(vals)
         ans.sort(reverse = True)
         return ans[k - 1] if len(ans) >= k else -1
 
