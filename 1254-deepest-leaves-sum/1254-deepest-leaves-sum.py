@@ -9,7 +9,6 @@ class Solution:
         if not root:
             return 0
         q = deque([root])
-        ans = []
         while q:
             size = len(q)
             s = 0
@@ -18,5 +17,4 @@ class Solution:
                 s += node.val
                 if node.left: q.append(node.left)
                 if node.right: q.append(node.right)
-            ans.append(s)
-        return ans[-1]
+        return s
