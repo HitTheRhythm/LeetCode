@@ -1,8 +1,10 @@
 class Solution:
     def findDuplicate(self, nums: List[int]) -> int:
-        found = set()
-        for n in nums:
-            if n in found:
-                return n
-            found.add(n)
-        return -1
+        nums.sort()
+        slow, fast = 0, 1
+        while fast < len(nums):
+            if nums[slow] == nums[fast]:
+                return nums[slow]
+            else:
+                slow += 1
+                fast += 1
