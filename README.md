@@ -17,6 +17,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HitTheRhythm/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HitTheRhythm/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HitTheRhythm/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/HitTheRhythm/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/HitTheRhythm/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/HitTheRhythm/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/HitTheRhythm/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HitTheRhythm/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/HitTheRhythm/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/HitTheRhythm/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1635-number-of-good-pairs](https://github.com/HitTheRhythm/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/HitTheRhythm/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -122,6 +124,7 @@
 | ------- |
 | [0015-3sum](https://github.com/HitTheRhythm/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/HitTheRhythm/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/HitTheRhythm/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/HitTheRhythm/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0917-boats-to-save-people](https://github.com/HitTheRhythm/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/HitTheRhythm/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -156,6 +159,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HitTheRhythm/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/HitTheRhythm/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/HitTheRhythm/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
@@ -186,6 +190,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HitTheRhythm/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/HitTheRhythm/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/HitTheRhythm/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1635-number-of-good-pairs](https://github.com/HitTheRhythm/LeetCode/tree/master/1635-number-of-good-pairs) |
