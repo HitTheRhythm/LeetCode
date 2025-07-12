@@ -13,6 +13,7 @@
 | [0042-trapping-rain-water](https://github.com/HitTheRhythm/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/HitTheRhythm/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HitTheRhythm/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/HitTheRhythm/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HitTheRhythm/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HitTheRhythm/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HitTheRhythm/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -216,6 +217,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/HitTheRhythm/LeetCode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/HitTheRhythm/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/HitTheRhythm/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Tree
