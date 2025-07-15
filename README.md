@@ -24,6 +24,7 @@
 | [0303-range-sum-query-immutable](https://github.com/HitTheRhythm/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/HitTheRhythm/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/HitTheRhythm/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/HitTheRhythm/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/HitTheRhythm/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/HitTheRhythm/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/HitTheRhythm/LeetCode/tree/master/0724-find-pivot-index) |
@@ -50,6 +51,7 @@
 | [0041-first-missing-positive](https://github.com/HitTheRhythm/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/HitTheRhythm/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/HitTheRhythm/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/HitTheRhythm/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1635-number-of-good-pairs](https://github.com/HitTheRhythm/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/HitTheRhythm/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/HitTheRhythm/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -284,6 +286,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HitTheRhythm/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HitTheRhythm/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0496-next-greater-element-i](https://github.com/HitTheRhythm/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/HitTheRhythm/LeetCode/tree/master/0739-daily-temperatures) |
 ## Bucket Sort
 |  |
@@ -293,6 +296,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HitTheRhythm/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/HitTheRhythm/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/HitTheRhythm/LeetCode/tree/master/0739-daily-temperatures) |
 ## Number Theory
 |  |
