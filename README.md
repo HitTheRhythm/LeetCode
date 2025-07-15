@@ -27,6 +27,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/HitTheRhythm/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/HitTheRhythm/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/HitTheRhythm/LeetCode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/HitTheRhythm/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/HitTheRhythm/LeetCode/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/HitTheRhythm/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/HitTheRhythm/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -283,6 +284,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HitTheRhythm/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HitTheRhythm/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0739-daily-temperatures](https://github.com/HitTheRhythm/LeetCode/tree/master/0739-daily-temperatures) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -291,6 +293,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HitTheRhythm/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/HitTheRhythm/LeetCode/tree/master/0739-daily-temperatures) |
 ## Number Theory
 |  |
 | ------- |
