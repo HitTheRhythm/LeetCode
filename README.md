@@ -37,6 +37,7 @@
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HitTheRhythm/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/HitTheRhythm/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HitTheRhythm/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HitTheRhythm/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1635-number-of-good-pairs](https://github.com/HitTheRhythm/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/HitTheRhythm/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2211-k-radius-subarray-averages](https://github.com/HitTheRhythm/LeetCode/tree/master/2211-k-radius-subarray-averages) |
@@ -290,6 +291,7 @@
 | [0496-next-greater-element-i](https://github.com/HitTheRhythm/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HitTheRhythm/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/HitTheRhythm/LeetCode/tree/master/0739-daily-temperatures) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HitTheRhythm/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -301,6 +303,7 @@
 | [0496-next-greater-element-i](https://github.com/HitTheRhythm/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HitTheRhythm/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/HitTheRhythm/LeetCode/tree/master/0739-daily-temperatures) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HitTheRhythm/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Number Theory
 |  |
 | ------- |
