@@ -3,12 +3,12 @@ class Solution:
         n = len(t)
         stack = []
         ans = [0] * n
-        for i in range(n - 1, -1, -1):
-            tem = t[i]
-            while stack and tem >= t[stack[-1]]:
+        stack.append(0)
+        for i in range(1, n):
+            while stack and t[i] > t[stack[-1]]:
+                ans[stack[-1]] = i - stack[-1]
                 stack.pop()
-
-            if stack:
-                ans[i] = stack[-1] - i
             stack.append(i)
         return ans
+
+        
