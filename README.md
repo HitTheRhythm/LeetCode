@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/HitTheRhythm/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/HitTheRhythm/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/HitTheRhythm/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/HitTheRhythm/LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/HitTheRhythm/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HitTheRhythm/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/HitTheRhythm/LeetCode/tree/master/0136-single-number) |
@@ -127,6 +128,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HitTheRhythm/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/HitTheRhythm/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/HitTheRhythm/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HitTheRhythm/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/HitTheRhythm/LeetCode/tree/master/0322-coin-change) |
 | [1013-fibonacci-number](https://github.com/HitTheRhythm/LeetCode/tree/master/1013-fibonacci-number) |
@@ -230,6 +232,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HitTheRhythm/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/HitTheRhythm/LeetCode/tree/master/0055-jump-game) |
 | [0917-boats-to-save-people](https://github.com/HitTheRhythm/LeetCode/tree/master/0917-boats-to-save-people) |
 ## Bit Manipulation
 |  |
