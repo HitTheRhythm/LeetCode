@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/HitTheRhythm/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/HitTheRhythm/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/HitTheRhythm/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/HitTheRhythm/LeetCode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/HitTheRhythm/LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/HitTheRhythm/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HitTheRhythm/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/HitTheRhythm/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/HitTheRhythm/LeetCode/tree/master/0048-rotate-image) |
 | [1013-fibonacci-number](https://github.com/HitTheRhythm/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/HitTheRhythm/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1635-number-of-good-pairs](https://github.com/HitTheRhythm/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -325,4 +327,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HitTheRhythm/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/HitTheRhythm/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
