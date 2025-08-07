@@ -16,6 +16,7 @@
 | [0048-rotate-image](https://github.com/HitTheRhythm/LeetCode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/HitTheRhythm/LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/HitTheRhythm/LeetCode/tree/master/0075-sort-colors) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HitTheRhythm/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/HitTheRhythm/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HitTheRhythm/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -180,6 +181,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HitTheRhythm/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/HitTheRhythm/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/HitTheRhythm/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/HitTheRhythm/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -256,6 +258,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HitTheRhythm/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HitTheRhythm/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HitTheRhythm/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HitTheRhythm/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -289,6 +292,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HitTheRhythm/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HitTheRhythm/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HitTheRhythm/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HitTheRhythm/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -334,4 +338,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/HitTheRhythm/LeetCode/tree/master/0048-rotate-image) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
