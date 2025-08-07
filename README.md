@@ -263,6 +263,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/HitTheRhythm/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/HitTheRhythm/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0543-diameter-of-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/HitTheRhythm/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1731-even-odd-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -278,6 +279,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/HitTheRhythm/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/HitTheRhythm/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0543-diameter-of-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/HitTheRhythm/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -294,6 +296,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/HitTheRhythm/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/HitTheRhythm/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0543-diameter-of-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/HitTheRhythm/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1731-even-odd-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
