@@ -156,6 +156,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/HitTheRhythm/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/HitTheRhythm/LeetCode/tree/master/0303-range-sum-query-immutable) |
 ## Math
 |  |
@@ -320,6 +321,7 @@
 | [0071-simplify-path](https://github.com/HitTheRhythm/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/HitTheRhythm/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HitTheRhythm/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0225-implement-stack-using-queues](https://github.com/HitTheRhythm/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/HitTheRhythm/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HitTheRhythm/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/HitTheRhythm/LeetCode/tree/master/0739-daily-temperatures) |
@@ -352,4 +354,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/HitTheRhythm/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
