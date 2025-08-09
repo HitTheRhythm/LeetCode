@@ -127,6 +127,7 @@
 | [0071-simplify-path](https://github.com/HitTheRhythm/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/HitTheRhythm/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/HitTheRhythm/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/HitTheRhythm/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/HitTheRhythm/LeetCode/tree/master/0344-reverse-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HitTheRhythm/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/HitTheRhythm/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -271,6 +272,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HitTheRhythm/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/HitTheRhythm/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/HitTheRhythm/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/HitTheRhythm/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/HitTheRhythm/LeetCode/tree/master/1254-deepest-leaves-sum) |
@@ -289,6 +291,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HitTheRhythm/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/HitTheRhythm/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/HitTheRhythm/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/HitTheRhythm/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/HitTheRhythm/LeetCode/tree/master/1254-deepest-leaves-sum) |
@@ -309,6 +312,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HitTheRhythm/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/HitTheRhythm/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/HitTheRhythm/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/HitTheRhythm/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/HitTheRhythm/LeetCode/tree/master/1254-deepest-leaves-sum) |
@@ -348,6 +352,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HitTheRhythm/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0257-binary-tree-paths](https://github.com/HitTheRhythm/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Matrix
 |  |
 | ------- |
