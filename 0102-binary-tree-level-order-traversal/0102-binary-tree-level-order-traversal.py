@@ -10,16 +10,17 @@ class Solution:
             return []
         ans = []
         q = deque([root])
-
         while q:
-            vals = []
-            for i in range(len(q)):
+            sz = len(q)
+            arr = []
+            for i in range(sz):
                 node = q.popleft()
-                vals.append(node.val)
+                arr.append(node.val)
                 if node.left: q.append(node.left)
                 if node.right: q.append(node.right)
-            ans.append(vals)
+            ans.append(arr)
         return ans
+         
 
 
 
