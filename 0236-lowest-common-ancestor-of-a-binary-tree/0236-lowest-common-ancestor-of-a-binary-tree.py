@@ -6,18 +6,13 @@
 #         self.right = None
 
 class Solution:
-    def __init__(self):
-        self.res = None
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        def dfs(node) -> bool:
-            if not node:
-                return False
-            left = dfs(node.left)
-            right = dfs(node.right)
+        if not root or root == p or root == q:
+            return root
 
-            mid = node == p or node == q
-            if mid + left + right >=2:
-                self.res = node
-            return mid or left or right
-        dfs(root)
-        return self.res
+        left_lca = self.lowestCommonAncestor(root.left, p, q)
+        right_lca = self.lowestCommonAncestor(root.right, p, q)
+
+        if left_lca and right_lca:
+            return root
+        return left_lca or right_lca
