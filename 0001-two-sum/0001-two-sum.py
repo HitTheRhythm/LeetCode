@@ -3,10 +3,10 @@ class Solution:
         mp = {}
 
         for i in range(len(nums)):
-            comp = target - nums[i]
-            if comp not in mp:
-                mp[nums[i]] = i
+            complement = target - nums[i]
+            if complement in mp:
+                return [i, mp[complement]]
             else:
-                return [i, mp[comp]]
-            
+                mp[nums[i]] = i
+        
         
