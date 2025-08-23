@@ -14,6 +14,7 @@
 | [0041-first-missing-positive](https://github.com/HitTheRhythm/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/HitTheRhythm/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/HitTheRhythm/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/HitTheRhythm/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/HitTheRhythm/LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/HitTheRhythm/LeetCode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HitTheRhythm/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -56,6 +57,7 @@
 | [0001-two-sum](https://github.com/HitTheRhythm/LeetCode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HitTheRhythm/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/HitTheRhythm/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/HitTheRhythm/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/HitTheRhythm/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/HitTheRhythm/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/HitTheRhythm/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -127,6 +129,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HitTheRhythm/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HitTheRhythm/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/HitTheRhythm/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/HitTheRhythm/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/HitTheRhythm/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/HitTheRhythm/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -148,6 +151,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/HitTheRhythm/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/HitTheRhythm/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/HitTheRhythm/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/HitTheRhythm/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/HitTheRhythm/LeetCode/tree/master/0347-top-k-frequent-elements) |
