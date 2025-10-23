@@ -1,12 +1,11 @@
 class Solution:
     def jump(self, nums: List[int]) -> int:
-        answer, n = 0, len(nums)
-        cur_end, cur_far = 0, 0
+        i = j = 0
+        cur = cmax = res = 0
 
-        for i in range(n - 1):
-            cur_far = max(cur_far, i + nums[i])
-            if i == cur_end:
-                answer += 1
-                cur_end = cur_far
-
-        return answer
+        for i in range(len(nums) - 1):
+            cmax = max(cmax, i + nums[i])
+            if i == cur:
+                res += 1
+                cur = cmax
+        return res
