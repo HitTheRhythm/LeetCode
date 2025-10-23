@@ -27,6 +27,7 @@
 | [0169-majority-element](https://github.com/HitTheRhythm/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HitTheRhythm/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HitTheRhythm/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/HitTheRhythm/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/HitTheRhythm/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/HitTheRhythm/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/HitTheRhythm/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -160,6 +161,7 @@
 | [0075-sort-colors](https://github.com/HitTheRhythm/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/HitTheRhythm/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HitTheRhythm/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/HitTheRhythm/LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/HitTheRhythm/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0917-boats-to-save-people](https://github.com/HitTheRhythm/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/HitTheRhythm/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -397,4 +399,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/HitTheRhythm/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/HitTheRhythm/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
